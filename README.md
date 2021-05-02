@@ -1,2 +1,2 @@
 # deliveryauto
-Delivery Automatic
+Sistema de cadastro de clientes e gerenciamento de pedidos.
