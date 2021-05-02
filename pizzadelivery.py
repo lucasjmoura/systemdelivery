@@ -1,3 +1,12 @@
+"""
+Este módulo é uma projeto de aprendizado, no qual desenvolvemos um sistema de pizzaria simples para cadastro
+e gerenciamento de pedidos!.
+
+Autor: Lucas Jesus de Moura
+lucas.j.m@outlook.com 
+version: 0.0.4
+
+"""
 import sys
 from datetime import datetime
 
